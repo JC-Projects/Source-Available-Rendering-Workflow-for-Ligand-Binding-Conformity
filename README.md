@@ -2,6 +2,12 @@
 
 ![Davunetide modelled docking with cathepsin H, rendered in Blender 4.4 via Cycles](https://github.com/JC-Projects/Free-Source-Available-Rendering-Workflow-for-Ligand-Binding-Conformity-for-Biochemical-Engineering/blob/main/Render%20Images%20and%20Animations/Blender%20-%20Image%20Render.png)
 
+**🚧WIP**
+-
+Current future plans for this pipeline are as follows:
+- Add more examples of well-known molecules to the render samples library
+- Incorporate multiple binding conformities on a enzyme to better showcase SwissDock predictions
+- Create a free material library for others to create a greater variety of visually appealing biochemical renders
 
 **🔨TOOLS USED**
 - 
