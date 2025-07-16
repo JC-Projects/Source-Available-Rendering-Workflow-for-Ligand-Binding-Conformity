@@ -7,6 +7,7 @@
 -
 Current future plans are as follows:
 - Add more examples of well-known molecule binding conformities to the render samples library
+- Add a way of visualising bonds between ligand and target
 - Create a free material library so others can create a greater variety of visually appealing biochemical renders
 
 **🔨TOOLS USED**
