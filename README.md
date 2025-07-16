@@ -1,15 +1,13 @@
 ## A Free Source-Available Rendering Workflow for Ligand Binding Conformity for Biochemical Engineering
 
-![Davunetide modelled docking with cathepsin H, rendered in Blender 4.4 via Cycles](https://github.com/JC-Projects/Free-Source-Available-Rendering-Workflow-for-Ligand-Binding-Conformity-for-Biochemical-Engineering/blob/main/Render%20Images%20and%20Animations/Blender%20-%20Image%20Render.png)
 ![Davunetide modelled docking with cathepsin H, rendered in Blender 4.4 via Cycles](https://github.com/JC-Projects/Free-Source-Available-Rendering-Workflow-for-Ligand-Binding-Conformity-for-Biochemical-Engineering/blob/main/Render%20Images%20and%20Animations/Multiple%20Conformity%20Render.jpg)
 ![Davunetide modelled docking with cathepsin H in two binding conformities, rendered in Blender 4.4 via Cycles](https://github.com/JC-Projects/Free-Source-Available-Rendering-Workflow-for-Ligand-Binding-Conformity-for-Biochemical-Engineering/blob/main/Render%20Images%20and%20Animations/Blender%20-%20Animation%20Render%20-%20Multiple%20Conformities.gif)
 
 **🚧WIP**
 -
-Current future plans for this pipeline are as follows:
-- ~~Incorporate multiple binding conformities on a enzyme to better showcase SwissDock predictions~~ Completed 13/07/24. Full size renders available in "Render Images" folder.
-- Add more examples of well-known molecules to the render samples library
-- Create a free material library for others to create a greater variety of visually appealing biochemical renders
+Current future plans are as follows:
+- Add more examples of well-known molecule binding conformities to the render samples library
+- Create a free material library so others can create a greater variety of visually appealing biochemical renders
 
 **🔨TOOLS USED**
 - 
@@ -28,7 +26,7 @@ Current future plans for this pipeline are as follows:
 - 
 Q: *I'm a biochemist looking to adopt this workflow - where should I start?*
 
-A: There are a multitude of tutorials available. If you're serious about learning the software I'd start with everyone else - at
+A: There are a multitude of tutorials available for Blender. If you're serious about learning the software I'd start with everyone else - at
 [The Donut](https://www.youtube.com/watch?v=4haAdmHqGOw). If you just want work with biological molecules, then I can wholeheartedly recommend [this series](https://www.youtube.com/watch?v=CvmFaRVmZRU) by the creator of Molecular Nodes. Please don't hesitate to contact me with any questions - I'd be glad to help.
 
 _<br>_
