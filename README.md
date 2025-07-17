@@ -14,15 +14,15 @@ Only one more update intended for this repo to include brief animations for each
 
 **Tools**
 - 
- SwissDock: Used to virtually dock ligand and target
+ [SwissDock](https://www.swissdock.ch/): Used to virtually dock ligand and target
  
- PyMOL v3.1: Used to create initial render, clean, and convert to blender-compatible file format
+ [PyMOL v3.1](https://www.pymol.org/): Used to create initial render, clean, and convert to blender-compatible file format
  
- PyViewDock: Used as a bridge to import .dock4 file into PyMOL
+ [PyViewDock](https://github.com/unizar-flav/PyViewDock): Used as a bridge to import .dock4 file into PyMOL
  
- Blender v4.4: Used to create and modify final render
+ [Blender v4.5](https://www.blender.org/): Used to create and modify final render
  
- Molecular Nodes: Used to import PDBx file into Blender and contributed heavily to final render
+ [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): Used to import PDBx file into Blender and contributed heavily to final render
 
 
 **FAQs**
