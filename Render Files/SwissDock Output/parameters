@@ -1,9 +1,0 @@
-Date: Sun 06 Jul 2025 11:43:48 
-Target: 8pch_modified.pdb
-Method: AC
-Ligand: CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)N
-Sampling exhaustivity: 90
-Cavity prioritization: 70
-Random Initial Conditions: 3
-Box size: 20 20 20
-Box center: 16.0 17.0 16.0
