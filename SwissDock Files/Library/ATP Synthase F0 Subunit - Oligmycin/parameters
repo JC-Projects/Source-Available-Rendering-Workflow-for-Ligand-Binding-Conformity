@@ -1,0 +1,9 @@
+Date: Thu 17 Jul 2025 11:14:42 
+Ligand: CC[C@@H]\\1CC[C@H]2[C@H]([C@H]([C@@H]([C@]3(O2)CC[C@@H]([C@@H](O3)C[C@@H](C)O)C)C)OC(=O)/C=C/[C@@H]([C@H]([C@@H](C(=O)[C@@H]([C@H]([C@@H](C(=O)[C@]([C@H]([C@@H](C/C=C/C=C1)C)O)(C)O)C)O)C)C)O)C)C
+Method: AC
+Target: 1c17_modified.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 1
+Box size: 20 20 20
+Box center: 0.0 -4.0 1.0

@@ -1,0 +1,9 @@
+Date: Thu 17 Jul 2025 11:45:29 
+Target: 5dv9_modified.pdb
+Method: AC
+Ligand: C1[C@@H](N=C(S1)C2=NC3=C(S2)C=C(C=C3)O)C(=O)O
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 1
+Box size: 20 20 20
+Box center: -6.0 31.0 -1.0

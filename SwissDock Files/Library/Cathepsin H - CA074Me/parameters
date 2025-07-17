@@ -1,0 +1,9 @@
+Date: Thu 17 Jul 2025 11:24:55 
+Ligand: CCCNC(=O)[C@@H]1[C@H](O1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N2CCC[C@H]2C(=O)OC
+Method: AC
+Target: 8pch_modified.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 1
+Box size: 20 20 20
+Box center: 16.0 17.0 16.0

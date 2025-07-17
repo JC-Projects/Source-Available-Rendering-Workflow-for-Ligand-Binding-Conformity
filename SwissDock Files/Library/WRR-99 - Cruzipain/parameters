@@ -1,0 +1,9 @@
+Date: Thu 17 Jul 2025 10:59:24 
+Ligand: CC(C)CCNC(=O)[C@@H](CCC1=CC=CC=C1)NC(=O)[C@@H](O)CC(=O)[O-]
+Method: AC
+Target: 1ewl_modified.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 1
+Box size: 20 20 20
+Box center: 1.0 12.0 6.0
